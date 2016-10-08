@@ -1,3 +1,5 @@
+有人制作了docker镜像：docker run -p 3000:3000 threatresponse/xterm.js
+
 # xterm.js
 
 ![xterm.js build status](https://api.travis-ci.org/sourcelair/xterm.js.svg) [![Gitter](https://badges.gitter.im/sourcelair/xterm.js.svg)](https://gitter.im/sourcelair/xterm.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
